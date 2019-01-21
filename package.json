@@ -1,0 +1,29 @@
+{
+  "name": "react-native-easing",
+  "version": "1.0.0",
+  "description": "react native easing的一些别名封装和自定义封装,让你可以更好地使用easing",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:thisXY/react-native-easing.git"
+  },
+  "homepage": "https://github.com/thisXY/react-native-easing#readme",
+  "keywords": [
+    "react native easing",
+    "easing",
+    "bezier",
+    "react native animation",
+    "custom animation",
+    "control animation",
+    "animation",
+    "Animation function",
+    "贝塞尔曲线",
+    "react native 动画",
+    "自定义动画",
+    "控制动画",
+    "动画函数"
+  ],
+  "main": "src/index.js",
+  "author": "XY",
+  "email": "543230241@qq.com"
+}
