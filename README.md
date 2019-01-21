@@ -73,6 +73,13 @@ npm install react-native-easing --save
 ![screenshot](https://raw.github.com/thisXY/react-native-easing/master/easings.png)
 
 * react native方法详见: https://reactnative.cn/docs/easing/
+
 ### 源码
 
 > https://github.com/thisXY/react-native-easing
+
+### react native动画组件推荐
+* https://github.com/thisXY/react-native-animated-view 
+  > 你可以像jQuery那样只给结果样式就能操作各种动画,你可以控制每一个样式的动画时间、动画函数甚至每一帧等。总之,你可以随意搭配轻松如意地操纵react-native动画
+* https://github.com/thisXY/react-native-touchable-view 
+  > 你可以依赖这个TouchableView的长按,滑动,X轴滑动,Y轴滑动,长按后滑动等手势响应得到回调和一系列参数(如相对父组件x、y坐标,相对页面x、y坐标,x轴位移、y轴位移)处理你的业务(如手势动画)
